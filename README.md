@@ -1,6 +1,6 @@
 # JavaScript Fundamentals
 
-## Question 1: JavaScript Syntax (Life Coding)
+## JavaScript Coding Challenge (Life Coding)
 
 - Write a JavaScript statement that displays "Hello, World!" using console.log.
 
@@ -16,7 +16,7 @@
 
 - Declare a variable using _var_, another using _let_, and a third using _const_.
 
-## Question 2: Presentation Question
+## Presentation Questions
 
 - What is JavaScript syntax? Explain the basic structure of a JavaScript program with examples of statements, expressions, and keywords/reserve words.
 
